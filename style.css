@@ -320,6 +320,12 @@ nav {
     width: 65px;
 }
 
+.banner-ad {
+    height: 70px;
+    margin-top: 10px;
+    border: 1px solid var(--border-color);
+}
+
 /* -------aside in main */
 aside {
     width: calc(var(--width-pc) - 780px);
